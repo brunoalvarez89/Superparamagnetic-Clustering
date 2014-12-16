@@ -1,6 +1,6 @@
 Superparamagnetic Clustering
 ============================
-Trabajo final de la materia Control, Modelos y Simulación de la carrera de Ingeniería Biomédica en Universidad Favaloro (año 2012). Programa realizado en Matlab que implementa el [algoritmo de Swendsen-Wang](http://en.wikipedia.org/wiki/Swendsen%E2%80%93Wang_algorithm) para clasificar puntos en dos y tres dimensiones.
+Trabajo final de la materia Control, Modelos y Simulación de la carrera de Ingeniería Biomédica en Universidad Favaloro (año 2012). Programa realizado en Matlab que implementa el [algoritmo de Swendsen-Wang](http://en.wikipedia.org/wiki/Swendsen%E2%80%93Wang_algorithm) para clasificar información en dos y tres dimensiones de manera no supervisada.
 
 ![Alt text](https://github.com/brunoalvarez89/SuperparamagneticClustering/blob/master/Screenshot.png)
 
