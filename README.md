@@ -6,6 +6,6 @@ Trabajo final de la materia Control, Modelos y Simulación de la carrera de Inge
 
 Para correr el programa, basta con seleccionar la carpeta donde esté almacenado Clus.m como el working directory de Matlab y compilar.
 
-La explicación detallada del algoritmo y sus resultados pueden hallarse [aquí](https://drive.google.com/file/d/0B72lvocrm-L4eVJxU3k5SFZwQ2M/view?usp=sharing).
+La explicación detallada del algoritmo y sus resultados pueden hallarse [acá](https://drive.google.com/file/d/0B72lvocrm-L4eVJxU3k5SFZwQ2M/view?usp=sharing).
 
 NOTA: Debido a que Matlab no está pensado para crear interfaces de usuario, el código puede resultar algo difícil de entender.
